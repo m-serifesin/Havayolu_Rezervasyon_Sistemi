@@ -1,0 +1,11 @@
+D:\udemy_c#\Ucak_Rezarvasyon_System\Ucak_Rezarvasyon_System\bin\Debug\Ucak_Rezarvasyon_System.exe.config
+D:\udemy_c#\Ucak_Rezarvasyon_System\Ucak_Rezarvasyon_System\bin\Debug\Ucak_Rezarvasyon_System.exe
+D:\udemy_c#\Ucak_Rezarvasyon_System\Ucak_Rezarvasyon_System\bin\Debug\Ucak_Rezarvasyon_System.pdb
+D:\udemy_c#\Ucak_Rezarvasyon_System\Ucak_Rezarvasyon_System\obj\Debug\Ucak_Rezarvasyon_System.csproj.AssemblyReference.cache
+D:\udemy_c#\Ucak_Rezarvasyon_System\Ucak_Rezarvasyon_System\obj\Debug\Ucak_Rezarvasyon_System.csproj.SuggestedBindingRedirects.cache
+D:\udemy_c#\Ucak_Rezarvasyon_System\Ucak_Rezarvasyon_System\obj\Debug\Ucak_Rezarvasyon_System.Form1.resources
+D:\udemy_c#\Ucak_Rezarvasyon_System\Ucak_Rezarvasyon_System\obj\Debug\Ucak_Rezarvasyon_System.Properties.Resources.resources
+D:\udemy_c#\Ucak_Rezarvasyon_System\Ucak_Rezarvasyon_System\obj\Debug\Ucak_Rezarvasyon_System.csproj.GenerateResource.cache
+D:\udemy_c#\Ucak_Rezarvasyon_System\Ucak_Rezarvasyon_System\obj\Debug\Ucak_Rezarvasyon_System.csproj.CoreCompileInputs.cache
+D:\udemy_c#\Ucak_Rezarvasyon_System\Ucak_Rezarvasyon_System\obj\Debug\Ucak_Rezarvasyon_System.exe
+D:\udemy_c#\Ucak_Rezarvasyon_System\Ucak_Rezarvasyon_System\obj\Debug\Ucak_Rezarvasyon_System.pdb
